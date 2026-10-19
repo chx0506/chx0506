@@ -49,48 +49,38 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="32" alt="laptop" />
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐑 专注羊 · PlotPlayer
-Apple Store Beta · AI 专注 App  
-独立开发 → 宣发 → 反馈 → 迭代  
-内测用户 **240+**
-
-[仓库](https://github.com/chx0506/PlotPlayer)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 VERSO
-多视频理解 · 跨视频信息提取与关联总结  
-从多源内容构建统一语义视图  
-
-[仓库](https://github.com/chx0506/VERSO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐱 小咪 App
-陪伴式宠物体重管理  
-称重 → 陪伴 → 健康洞察 → 社区  
-
-[仓库](https://github.com/chx0506/xiaomi-app) · [在线](https://aidol-s2.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 MoonWave · 月潮
-先听见身体，再听见自己  
-纸艺海岸 · 潮汐日刊 · 海岛探索  
-
-[仓库](https://github.com/chx0506/MoonWave) · [在线](https://moon-wave.vercel.app)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐑 专注羊 · PlotPlayer</h3>
+      Apple Store Beta · AI 专注 App<br />
+      独立开发 → 宣发 → 反馈 → 迭代<br />
+      内测用户 <b>240+</b><br /><br />
+      <a href="https://github.com/chx0506/PlotPlayer">仓库</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 VERSO</h3>
+      多视频理解 · 跨视频信息提取与关联总结<br />
+      从多源内容构建统一语义视图<br /><br />
+      <a href="https://github.com/chx0506/VERSO">仓库</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐱 小咪 App</h3>
+      猫窝体重秤的软件端 · 硬件产品配套 App<br />
+      称重联调 → 陪伴聊天 → 健康洞察 → 社区<br /><br />
+      <a href="https://github.com/chx0506/xiaomi-app">仓库</a> ·
+      <a href="https://aidol-s2.vercel.app">在线</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 MoonWave · 月潮</h3>
+      先听见身体，再听见自己<br />
+      纸艺海岸 · 潮汐日刊 · 海岛探索<br /><br />
+      <a href="https://github.com/chx0506/MoonWave">仓库</a> ·
+      <a href="https://moon-wave.vercel.app">在线</a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
