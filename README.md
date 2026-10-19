@@ -28,7 +28,7 @@
 - ✍️ 小红书四千粉教育博主 · **0 实习经历**拿到抖音实习 offer
 - 💰 独立做过电商与知识付费，累计盈利 **2w+**
 - 🔭 Currently leading **抖音 AI 创变者计划 · 北方赛区** & **StartBuild** 社区（成员 **1000+**）
-- 🏆 **2026 创变者总决赛全国亚军**（队长：前后端 + 产品设计）· 跨年黑客松 **最佳产品创意奖**
+- 🏆 **2026抖音创变者计划总决赛全国亚军** 抖音跨年黑客松 **最佳产品创意奖**
 - 🌐 Visit my products 👉 **[专注羊](https://github.com/chx0506/PlotPlayer)** · **[VERSO](https://github.com/chx0506/VERSO)** · **[小咪](https://aidol-s2.vercel.app)** · **[MoonWave](https://moon-wave.vercel.app)**
 - 🎮 **_Highlights_**: App Store Beta（内测 **240+**）· 黑客松奖金近 **7w** · 奇绩创坛面试 · 北京百人黑客松 ×2
 - 🌱 I’m currently specializing in **LLM apps · React/TS · Swift · Product Design**
@@ -49,39 +49,15 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="32" alt="laptop" />
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐑 专注羊 · PlotPlayer</h3>
-      Apple Store Beta · AI 专注 App<br />
-      独立开发 → 宣发 → 反馈 → 迭代<br />
-      内测用户 <b>240+</b><br /><br />
-      <a href="https://github.com/chx0506/PlotPlayer">仓库</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 VERSO</h3>
-      多视频理解 · 跨视频信息提取与关联总结<br />
-      从多源内容构建统一语义视图<br /><br />
-      <a href="https://github.com/chx0506/VERSO">仓库</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐱 小咪 App</h3>
-      猫窝体重秤的软件端 · 硬件产品配套 App<br />
-      称重联调 → 陪伴聊天 → 健康洞察 → 社区<br /><br />
-      <a href="https://github.com/chx0506/xiaomi-app">仓库</a> ·
-      <a href="https://aidol-s2.vercel.app">在线</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌊 MoonWave · 月潮</h3>
-      先听见身体，再听见自己<br />
-      纸艺海岸 · 潮汐日刊 · 海岛探索<br /><br />
-      <a href="https://github.com/chx0506/MoonWave">仓库</a> ·
-      <a href="https://moon-wave.vercel.app">在线</a>
-    </td>
-  </tr>
-</table>
+<!-- GitHub 会吃掉 HTML table 的 width:100%，用 Markdown 表格才能铺满主栏宽度 -->
+
+| 🐑 **专注羊 · PlotPlayer** | 🎬 **VERSO** |
+|:---|:---|
+| Apple Store Beta · AI 专注 App<br>独立开发 → 宣发 → 反馈 → 迭代<br>内测用户 **240+**<br><br>[仓库](https://github.com/chx0506/PlotPlayer) | 多视频理解 · 跨视频信息提取与关联总结<br>从多源内容构建统一语义视图<br><br>[仓库](https://github.com/chx0506/VERSO) |
+
+| 🐱 **小咪 App** | 🌊 **MoonWave · 月潮** |
+|:---|:---|
+| 猫窝体重秤的软件端 · 硬件产品配套 App<br>称重联调 → 陪伴聊天 → 健康洞察 → 社区<br><br>[仓库](https://github.com/chx0506/xiaomi-app) · [在线](https://aidol-s2.vercel.app) | 先听见身体，再听见自己<br>纸艺海岸 · 潮汐日刊 · 海岛探索<br><br>[仓库](https://github.com/chx0506/MoonWave) · [在线](https://moon-wave.vercel.app) |
 
 <p align="center">
   <sub>更多实验：</sub>
