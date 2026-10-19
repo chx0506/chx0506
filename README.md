@@ -27,7 +27,7 @@
 - 🎓 **HHU** 数学本 · **BJTU** 计算机硕在读 · 研究方向 **大模型**
 - ✍️ 小红书四千粉教育博主 · **0 实习经历**拿到抖音实习 offer
 - 💰 独立做过电商与知识付费，累计盈利 **2w+**
-- 🔭 Currently leading **👉[抖音 AI 创变者计划 · 北方赛区](https://github.com/chx0506)** & **StartBuild** 社区（成员 **1000+**）
+- 🔭 Currently leading **抖音 AI 创变者计划 · 北方赛区** & **StartBuild** 社区（成员 **1000+**）
 - 🏆 **2026 创变者总决赛全国亚军**（队长：前后端 + 产品设计）· 跨年黑客松 **最佳产品创意奖**
 - 🌐 Visit my products 👉 **[专注羊](https://github.com/chx0506/PlotPlayer)** · **[VERSO](https://github.com/chx0506/VERSO)** · **[小咪](https://aidol-s2.vercel.app)** · **[MoonWave](https://moon-wave.vercel.app)**
 - 🎮 **_Highlights_**: App Store Beta（内测 **240+**）· 黑客松奖金近 **7w** · 奇绩创坛面试 · 北京百人黑客松 ×2
