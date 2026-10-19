@@ -36,7 +36,6 @@
   [![Xiaohongshu](https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.cn/o/5GwCPPcIICG)
   [![X](https://img.shields.io/badge/X-@achunmm-000000?style=flat&logo=x&logoColor=white)](https://x.com/achunmm)
   [![GitHub](https://img.shields.io/badge/GitHub-chx0506-181717?style=flat&logo=github&logoColor=white)](https://github.com/chx0506)
-  ![Bonjour](https://img.shields.io/badge/微信小程序-Bonjour-07C160?style=flat)
 - 👯 I’m building **StartBuild** —— 在北京办过两场百人以上黑客松；霍启刚、鄺美雲等人大代表曾到现场参观
 - 🧩 I take pride in shipping full loops: **独立开发 → 自媒体宣发 → 用户反馈 → 迭代优化**
 - ⚡ Fun fact: **能写代码，也能把故事讲完；能自己出货，也能把场子撑起来。**
